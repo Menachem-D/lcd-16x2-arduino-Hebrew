@@ -1,4 +1,4 @@
-//Hebrew Charecters for Arduino 16*2 display. Unfortantly due to ram size you can only print max 8 charters at a time.
+//Hebrew Charecters for Arduino 16*2 display. Unfortantly due to ram size you can only print max 8 diffrint charters at a time.
 
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // RS, E, D4, D5, D6, D7
